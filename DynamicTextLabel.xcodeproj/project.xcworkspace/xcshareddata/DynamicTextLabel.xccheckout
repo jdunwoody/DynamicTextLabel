@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>2B469E08-48AB-4D03-91BC-0340BAAB1275</string>
+	<key>IDESourceControlProjectName</key>
+	<string>DynamicTextLabel</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>87F55B2652E5B7167CB8C6A5D7AC339F1211906A</key>
+		<string>github.com:jdunwoody/DynamicTextLabel.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>DynamicTextLabel.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>87F55B2652E5B7167CB8C6A5D7AC339F1211906A</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>github.com:jdunwoody/DynamicTextLabel.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>87F55B2652E5B7167CB8C6A5D7AC339F1211906A</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>87F55B2652E5B7167CB8C6A5D7AC339F1211906A</string>
+			<key>IDESourceControlWCCName</key>
+			<string>DynamicTextLabel</string>
+		</dict>
+	</array>
+</dict>
+</plist>
